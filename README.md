@@ -5,8 +5,8 @@
       - 'Sungkyunkwan University, Department of Systems Management Engineering'
 
 <h3>🔭Projects</h3>
-- Deep Learning
+#### Deep Learning
 - 'https://github.com/jiwooya1000/KOR-Multimodal-Emotion-Recognition'
 
-- Reinforcement Learning
+#### Reinforcement Learning
 - 'https://www.mdpi.com/2076-3417/12/9/4703'
