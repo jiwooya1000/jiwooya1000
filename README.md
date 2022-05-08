@@ -17,5 +17,5 @@ https://github.com/jiwooya1000/KOR-Multimodal-Emotion-Recognition
 
 ### Reinforcement Learning
 ~~~
-[MARL-Based Dual Reward Model on Segmented Actions for Multiple Mobile Robots in Automated Warehouse Environment]https://www.mdpi.com/2076-3417/12/9/4703
+[MARL-Based Dual Reward Model on Segmented Actions for Multiple Mobile Robots in Automated Warehouse Environment](https://www.mdpi.com/2076-3417/12/9/4703)
 ~~~
