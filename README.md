@@ -3,8 +3,11 @@
 
 
 ## 🌱 I’m currently learning at...
-'Sungkyunkwan University, Department of Statistics'
-'Sungkyunkwan University, Department of Systems Management Engineering'
+~~~
+Sungkyunkwan University, Department of Statistics
+Sungkyunkwan University, Department of Systems Management Engineering
+~~~
+
 
 ## 🔭Projects
 ### Deep Learning
