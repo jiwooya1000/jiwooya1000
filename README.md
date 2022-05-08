@@ -3,16 +3,16 @@
 
 
 ## 🌱 I’m currently learning at...
-- 'Sungkyunkwan University, Department of Statistics'
-- 'Sungkyunkwan University, Department of Systems Management Engineering'
+'Sungkyunkwan University, Department of Statistics'
+'Sungkyunkwan University, Department of Systems Management Engineering'
 
 ## 🔭Projects
-#### Deep Learning
+### Deep Learning
 ~~~
 https://github.com/jiwooya1000/KOR-Multimodal-Emotion-Recognition
 ~~~
 
-#### Reinforcement Learning
+### Reinforcement Learning
 ~~~
 https://www.mdpi.com/2076-3417/12/9/4703
 ~~~
