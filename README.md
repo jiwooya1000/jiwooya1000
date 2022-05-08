@@ -1,6 +1,6 @@
 <h1 align="center"> Jiwoo Hong</h1>
 
-
+<br/><br/><br/><br/>
 
 ## 🌱 I’m currently learning at...
 ~~~
