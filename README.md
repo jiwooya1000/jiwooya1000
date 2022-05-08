@@ -1,12 +1,12 @@
 <h1 align="center"> Jiwoo Hong</h1>
 
-<h3>🌱 I’m currently learning at...</h3>
-------
+## 🌱 I’m currently learning at...
+-----
 - 'Sungkyunkwan University, Department of Statistics'
 - 'Sungkyunkwan University, Department of Systems Management Engineering'
 
-<h3>🔭Projects</h3>
----
+## 🔭Projects
+-----
 #### Deep Learning
 - 'https://github.com/jiwooya1000/KOR-Multimodal-Emotion-Recognition'
 
