@@ -14,9 +14,11 @@ Sungkyunkwan University, Department of Systems Management Engineering
 ## 🔭Projects
 ### Deep Learning
 
-> **1) 딥러닝 기반 화자 프로파일링 기술 개발**
+> **1) Deep Learning Model for Speaker Profiling**
+>
+> > Patent Pending
 > 
-> **2) 각성도 및 긍/부정도의 싱글모달 사전학습 예측 모델 기반 멀티모달 감정인식 모델 연구**
+> **2) Multimodal Emotional Recognition Model based on Single-modal Pretrained Prediction Model of Valence and Arousal**
 >
 > > Paper : https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113938&language=ko_KR&hasTopBanner=true
 > 
