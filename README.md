@@ -20,7 +20,7 @@ Sungkyunkwan University, Department of Systems Management Engineering
 > 
 > **2) Multimodal Emotional Recognition Model based on Single-modal Pretrained Prediction Model of Valence and Arousal**
 >
-> > [Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113938&language=ko_KR&hasTopBanner=true) [Code](https://github.com/jiwooya1000/KOR-Multimodal-Emotion-Recognition)
+> > [Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113938&language=ko_KR&hasTopBanner=true) | [Code](https://github.com/jiwooya1000/KOR-Multimodal-Emotion-Recognition)
 
 <br/>
 
