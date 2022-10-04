@@ -20,13 +20,11 @@ Sungkyunkwan University, Department of Systems Management Engineering
 > 
 > **2) Multimodal Emotional Recognition Model based on Single-modal Pretrained Prediction Model of Valence and Arousal**
 >
-> > [[Paper]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113938&language=ko_KR&hasTopBanner=true)
-> 
-> > [[Code]](https://github.com/jiwooya1000/KOR-Multimodal-Emotion-Recognition)
+> > [Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113938&language=ko_KR&hasTopBanner=true) [Code](https://github.com/jiwooya1000/KOR-Multimodal-Emotion-Recognition)
 
 <br/>
 
 ### Reinforcement Learning
 > **1) MARL-Based Dual Reward Model on Segmented Actions for Multiple Mobile Robots in Automated Warehouse Environment**
 > 
-> > Paper : https://www.mdpi.com/2076-3417/12/9/4703
+> > [Paper](https://www.mdpi.com/2076-3417/12/9/4703)
