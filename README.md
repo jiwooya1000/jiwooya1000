@@ -20,6 +20,13 @@ Sungkyunkwan University, Department of Systems Management Engineering
 > **2) Multimodal Emotional Recognition Model based on Single-modal Pretrained Prediction Model of Valence and Arousal**
 >
 > > [Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113938&language=ko_KR&hasTopBanner=true) | [Code](https://github.com/jiwooya1000/KOR-Multimodal-Emotion-Recognition)
+>
+> **3) Korean Automatic Speech Recognition**
+>
+> > [Code](https://github.com/jiwooya1000/KOR-AI-Competition)
+>
+> **4) Stalking Detection Platform based on Self-Attentive Sentence Embedding with BiLSTM**
+> > [Code](https://github.com/jiwooya1000/Stalking-Detection-Platform) | [Related Paper](https://arxiv.org/abs/1703.03130)
 
 <br/>
 
