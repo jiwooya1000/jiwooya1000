@@ -13,13 +13,13 @@ Sungkyunkwan University, Department of Systems Management Engineering
 
 ## 🔭Projects
 ### Deep Learning
-> **1) Deep Learning Model for Speaker Profiling**
+> **1) Multi-task Deep Learning Model for Speaker Profiling**
 >
 > > Patent Pending
 > 
 > **2) Multimodal Emotional Recognition Model based on Single-modal Pretrained Prediction Model of Valence and Arousal**
 >
-> > [Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113938&language=ko_KR&hasTopBanner=true) | [Code](https://github.com/jiwooya1000/KOR-Multimodal-Emotion-Recognition)
+> > [Code](https://github.com/jiwooya1000/KOR-Multimodal-Emotion-Recognition) | [Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113938&language=ko_KR&hasTopBanner=true)
 >
 > **3) Korean Automatic Speech Recognition**
 >
