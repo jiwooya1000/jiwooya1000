@@ -15,7 +15,7 @@ Sungkyunkwan University, Department of Systems Management Engineering
 ### Deep Learning
 > **1) Disentangling Structure and Style: Political Bias Detection in News by Inducing Document Hierarchy**
 >
-> > [Paper]([https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113938&language=ko_KR&hasTopBanner=true](https://arxiv.org/abs/2304.02247))
+> > [Paper](https://arxiv.org/abs/2304.02247)
 > 
 > **2) Multimodal Emotional Recognition Model based on Single-modal Pretrained Prediction Model of Valence and Arousal**
 >
