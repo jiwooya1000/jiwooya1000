@@ -2,12 +2,9 @@
 
 <br/>
 
-## 🌱 I’m currently learning at...
+## 🌱 Education
 
-~~~
-Sungkyunkwan University, Department of Statistics
-Sungkyunkwan University, Department of Systems Management Engineering
-~~~
+- `2017.03 ~ 2023.02` B.S in Statistics & Industrial Engineering, Sungkyunkwan University (***Summa Cum Laude***)
 
 <br/>
 
