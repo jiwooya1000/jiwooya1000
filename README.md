@@ -5,6 +5,7 @@
 ## 🌱 Education
 
 - `2017.03 ~ 2023.02` B.S in Statistics & Industrial Engineering, Sungkyunkwan University (***Summa Cum Laude***)
+- `2023.09 ~        ` M.S in Artificial Intelligence, KAIST GSAI
 
 <br/>
 
