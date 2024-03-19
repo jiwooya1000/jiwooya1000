@@ -10,15 +10,19 @@
 <br/>
 
 ## 📝Publications
-> **1) Disentangling Structure and Style: Political Bias Detection in News by Inducing Document Hierarchy**
+> **1) ORPO: Monolithic Preference Optimization without Reference Model**
+>
+> > [Paper](https://arxiv.org/abs/2403.07691) | [Code](https://github.com/xfactlab/orpo)
+> 
+> **2) Disentangling Structure and Style: Political Bias Detection in News by Inducing Document Hierarchy**
 >
 > > [Paper](https://arxiv.org/abs/2304.02247)
 > 
-> **2) Multimodal Emotional Recognition Model based on Single-modal Pretrained Prediction Model of Valence and Arousal**
+> **3) Multimodal Emotional Recognition Model based on Single-modal Pretrained Prediction Model of Valence and Arousal**
 >
 > > [Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113938&language=ko_KR&hasTopBanner=true) | [Code](https://github.com/jiwooya1000/KOR-Multimodal-Emotion-Recognition)
 >
-> **3) MARL-Based Dual Reward Model on Segmented Actions for Multiple Mobile Robots in Automated Warehouse Environment**
+> **4) MARL-Based Dual Reward Model on Segmented Actions for Multiple Mobile Robots in Automated Warehouse Environment**
 > 
 > > [Paper](https://www.mdpi.com/2076-3417/12/9/4703)
 
